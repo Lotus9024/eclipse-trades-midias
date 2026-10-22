@@ -13,6 +13,8 @@ Pastas: `marca/`, `sellers/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 
 ## sellers
 
+- `faixa_seller.gif`: faixa premium amarela (960×240, fundo preto, "SELLER" dourado com o ícone de seller e brilho animado em loop de 2,4 s). `faixa_seller.png` é o quadro estático para prévia.
+
 ## embeds
 
 ## posts
