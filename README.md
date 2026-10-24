@@ -10,6 +10,7 @@ Pastas: `marca/`, `sellers/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 
 - [logo_eclipsetrades.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades.png)
 - [logo_eclipsetrades.svg](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades.svg)
+- [logo_eclipsetrades_gold.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades_gold.png): versão dourada do tema premium amarelo (1254 px), usada nos embeds de Seller e nos anúncios.
 
 ## sellers
 
