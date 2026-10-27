@@ -11,6 +11,8 @@ Pastas: `marca/`, `sellers/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 - [logo_eclipsetrades.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades.png)
 - [logo_eclipsetrades.svg](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades.svg)
 - [logo_eclipsetrades_gold.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades_gold.png): versão dourada do tema premium amarelo (1254 px), usada nos embeds de Seller e nos anúncios.
+- [logo_eclipsetrades_halloween.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades_halloween.png) e [.svg](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades_halloween.svg): versão de Halloween (barras de abóbora, jack-o'-lantern e morcegos), ícone do servidor no Halloween de 2026.
+- [icone_servidor_antes_halloween.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/icone_servidor_antes_halloween.png): ícone do servidor antes do Halloween, para restaurar depois.
 
 ## sellers
 
