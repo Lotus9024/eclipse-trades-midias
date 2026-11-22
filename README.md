@@ -20,7 +20,7 @@ Pastas: `marca/`, `sellers/`, `notion/`, `embeds/`, `posts/`, `motions/` e `emoj
 
 ## notion
 
-- [capa_time_de_discord.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/notion/capa_time_de_discord.png): capa da página Time de discord no Notion (3000×400), no mesmo modelo das capas da EclipSePay, EclipSe MM e EclipSeBuxx.
+- [capa_time_de_discord.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/notion/capa_time_de_discord.png): capa da página Time de discord no Notion (4500×600), no mesmo modelo das capas da EclipSePay, EclipSe MM e EclipSeBuxx.
 
 ## embeds
 
