@@ -4,7 +4,7 @@ Links permanentes para usar em embeds do Discord, bots e sites.
 
 Formato do link: `https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/<pasta>/<arquivo>`
 
-Pastas: `marca/`, `sellers/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
+Pastas: `marca/`, `sellers/`, `notion/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 
 ## marca
 
@@ -17,6 +17,10 @@ Pastas: `marca/`, `sellers/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 ## sellers
 
 - `faixa_seller.gif`: faixa premium amarela (960×240, fundo preto). "SELLER" dourado no centro com brilho passando; aos 3 s a logo de seller surge atrás, o texto some e a logo fica sozinha antes de voltar (loop de 7,4 s). `faixa_seller.png` é o quadro estático para prévia.
+
+## notion
+
+- [capa_time_de_discord.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/notion/capa_time_de_discord.png): capa da página Time de discord no Notion (3000×400), no mesmo modelo das capas da EclipSePay, EclipSe MM e EclipSeBuxx.
 
 ## embeds
 
