@@ -68,16 +68,7 @@
         },
         {
           "type": 10,
-          "content": "- É proibido anunciar **compra** em <#1559198379169292325>, <#1559315900115587203>, <#1559198379169292319>, <#1562837970149572708>, <#1562837972322353222>, <#1562837974570369136>, <#1562837976671584349>. Nesses canais, quem não é Seller só pode anunciar **venda**.\n- Nos demais canais de vendas, o anúncio de compra está **liberado**."
-        },
-        {
-          "type": 14,
-          "divider": true,
-          "spacing": 1
-        },
-        {
-          "type": 10,
-          "content": "<:sellerdourado:1574409194432499764> Anunciar compra nesses canais é permitido **apenas para Sellers**."
+          "content": "- É proibido anunciar **compra** em <#1559198379169292325>, <#1559315900115587203>, <#1559198379169292319>, <#1562837970149572708>, <#1562837972322353222>, <#1562837974570369136>, <#1562837976671584349>. Nesses canais, quem não é Seller só pode anunciar **venda**.\n- Nos demais canais de vendas, o anúncio de compra está **liberado**.\n\n<:sellerdourado:1574409194432499764> Anunciar compra nesses canais é permitido **apenas para Sellers**."
         },
         {
           "type": 1,
@@ -192,8 +183,23 @@
       ]
     },
     {
-      "type": 10,
-      "content": "-# Em caso de banimento, se você se sentir injustiçado ou quiser pedir perdão, entre em https://discord.gg/7mvmvqg5u3"
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:alertagrafite:1574407163512885428> Usuário suspeito"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- É proibido criar contas alts ou reportar usuários como suspeitos **sem indícios**.\n- Reporte um usuário como suspeito quando ele:\n  - postar sem estoque;\n  - quiser usar outro middleman;\n  - tentar vender sem middleman;\n  - tentar te roubar ou já tiver te roubado;\n  - ou por outros motivos.\n\n-# Em caso de banimento, se você se sentir injustiçado ou quiser pedir perdão, entre em https://discord.gg/7mvmvqg5u3"
+        }
+      ]
     }
   ]
 }
