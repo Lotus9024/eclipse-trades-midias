@@ -34,4 +34,4 @@ Pastas: `marca/`, `sellers/`, `notion/`, `embeds/`, `posts/`, `motions/` e `emoj
 Imagens de todos os emojis do servidor do Discord, com o mesmo nome do emoji (`emoji/<nome>.png`, ou `.gif` se for animado). O ID e o código de cada um ficam no Notion, em Time de Discord → Página Inicial de Servidor → Emojis existentes. Ao criar um emoji novo no servidor, adicione a imagem aqui e a linha lá.
 
 Emojis grafite do rebranding (quadrado preto com o desenho em degradê grafite, no tema da logo Degrau):
-`eclipsetradesgrafite`, `bloqueiografite`, `cancelargrafite`, `verificadografite`, `coracaodinheirografite`, `sellergrafite`, `robuxgrafite` e `alertagrafite`.
+`eclipsetradesgrafite`, `bloqueiografite`, `cancelargrafite`, `verificadografite`, `coracaodinheirografite`, `robuxgrafite` e `alertagrafite`. O Seller continua dourado: `sellerdourado` (lua com coroa dourada no mesmo quadrado preto).
