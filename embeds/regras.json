@@ -1,0 +1,199 @@
+{
+  "flags": 32768,
+  "allowed_mentions": {
+    "parse": []
+  },
+  "components": [
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 9,
+          "accessory": {
+            "type": 11,
+            "media": {
+              "url": "https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/615dfdd613bda57012131c93a1b61feb34267bdb/marca/logo_eclipsetrades_preta.png"
+            }
+          },
+          "components": [
+            {
+              "type": 10,
+              "content": "# <:eclipsetradesgrafite:1574411862374744205>╺╸Regras da EclipSe TradeS"
+            }
+          ]
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "Leia antes de anunciar ou negociar. Quem descumprir as regras está sujeito a punição, que pode chegar ao **banimento**."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:bloqueiografite:1574407148513927168> Proibido conteúdo criminoso"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- É proibido anunciar, divulgar ou pedir qualquer coisa ilegal: cartão clonado ou de terceiros, contas roubadas, Robux de fraude, painéis, golpes e dados de outras pessoas.\n- Quem postar conteúdo criminoso está sujeito a **banimento imediato**."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:bloqueiografite:1574407148513927168> Proibido anúncio de compra"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- É proibido anunciar **compra** em <#1559198379169292325>, <#1559315900115587203>, <#1559198379169292319>, <#1562837970149572708>, <#1562837972322353222>, <#1562837974570369136>, <#1562837976671584349>. Nesses canais, quem não é Seller só pode anunciar **venda**.\n- Nos demais canais de vendas, o anúncio de compra está **liberado**."
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "<:sellerdourado:1574409194432499764> Anunciar compra nesses canais é permitido **apenas para Sellers**."
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Se torne Seller",
+              "emoji": {
+                "name": "sellerdourado",
+                "id": "1574409194432499764"
+              },
+              "url": "https://discord.com/channels/1559198377944555622/1562609571946700871"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:bloqueiografite:1574407148513927168> Proibido desviar MM"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- É proibido divulgar ou recomendar outros middlemans dentro da EclipSe TradeS.\n- Cuidado com quem oferece intermediário de fora: use somente o <:eclipsemmlogo:1560444685934395402> **EclipSe MM**."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:bloqueiografite:1574407148513927168> Proibido burlar o AutoMod"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- É proibido burlar o AutoMod e a moderação da EclipSe TradeS, como trocar letras, separar palavras ou usar imagens para passar pelo filtro.\n- Burlar a moderação é sujeito a **ban**."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:bloqueiografite:1574407148513927168> Proibido ofensas"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- É proibido ofender, xingar ou provocar outros membros.\n- Também é proibido xingar ou zoar o preço do anúncio dos outros. Não gostou, é só não comprar."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:bloqueiografite:1574407148513927168> Proibido conversas"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- Nos canais de venda, só anúncios. É proibido mandar mensagens como \"vem pv\", discussões, conversas, brincadeiras ou qualquer outra coisa que não seja um anúncio.\n- Para conversar com alguém, use o <#1573835429730455744>."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:bloqueiografite:1574407148513927168> Proibido postar no canal errado"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- Cada canal é para um tipo de anúncio. Leia o nome do canal antes de postar.\n- Anúncio no canal errado é **apagado**. Ex.: Robux via Plus vai no <#1571973311364333639>, alt no <#1571973380813488320> e UGC no <#1559315900115587203>."
+        }
+      ]
+    },
+    {
+      "type": 10,
+      "content": "-# Em caso de banimento, se você se sentir injustiçado ou quiser pedir perdão, entre em https://discord.gg/7mvmvqg5u3"
+    }
+  ]
+}

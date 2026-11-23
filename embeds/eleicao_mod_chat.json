@@ -1,0 +1,95 @@
+{
+  "flags": 32768,
+  "allowed_mentions": {
+    "parse": []
+  },
+  "components": [
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 9,
+          "accessory": {
+            "type": 11,
+            "media": {
+              "url": "https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/615dfdd613bda57012131c93a1b61feb34267bdb/marca/logo_eclipsetrades_preta.png"
+            }
+          },
+          "components": [
+            {
+              "type": 10,
+              "content": "# <:eclipsetradesgrafite:1574411862374744205>╺╸Eleição de Mod Chat"
+            }
+          ]
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "O **Mod Chat** é o moderador escolhido pela própria comunidade. Ele cuida do chat, organiza eventos e representa os membros junto à equipe da EclipSe TradeS."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:alertagrafite:1574407163512885428> Como funciona a eleição"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- A cada **3 semanas** acontece uma nova eleição de Mod Chat.\n- O Mod Chat atual pode escolher se candidatar de novo ou não participar mais.\n- Selecionamos **25 candidatos**. Destes, entre **4 e 7** ficam elegíveis para receber votos."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:verificadografite:1574407152402046988> Permissões do Mod Chat"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- Mutar membros e apagar mensagens.\n- Expulsar membros.\n- Banir, com poder limitado.\n- Realizar desbanimentos.\n- Realizar eventos e sorteios.\n- Customizar a comunidade.\n- Enviar middlemans ou Seller gratuitos (regras definidas em breve).\n- Prioridade nas sugestões da comunidade.\n- Divulgar algumas coisas.\n\n-# Algumas permissões serão limitadas."
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:coracaodinheirografite:1574407155270942740> Verba e salário"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "- Toda semana o Mod Chat recebe uma verba, que pode variar entre **R$ 30 e R$ 160**.\n- Ele escolhe quanto dessa verba fica para si e quanto vai para a comunidade: sorteios de middlemans gratuitos, eventos ou qualquer ação que precise de dinheiro.\n- A divisão escolhida é **pública**."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "flags": 32768,
+  "allowed_mentions": {
+    "parse": []
+  },
+  "components": [
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 9,
+          "accessory": {
+            "type": 11,
+            "media": {
+              "url": "https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/615dfdd613bda57012131c93a1b61feb34267bdb/emoji/eclipsepaylogo.png"
+            }
+          },
+          "components": [
+            {
+              "type": 10,
+              "content": "# <:eclipsepaylogo:1560444657819713636>╺╸EclipSePay"
+            }
+          ]
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:eclipsepaylogo:1560444657819713636> Use nossa gateway como um banco"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "Cansado de perder bancos pessoais por med ou de ter seu nome exposto no Pix? A EclipSePay resolve:\n\n- **Proteção contra med.**\n- Tudo cai no **nosso CNPJ**.\n- Integração por **API** em qualquer projeto.\n- Taxa de **50 centavos**."
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "EclipSePay",
+              "emoji": {
+                "name": "eclipsepaylogo",
+                "id": "1560444657819713636"
+              },
+              "url": "https://eclipsepaybr.com/"
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Servidor EclipSePay",
+              "url": "https://discord.gg/eclipsepay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 17,
+      "accent_color": 9408399,
+      "components": [
+        {
+          "type": 10,
+          "content": "## <:eclipsemmlogo:1560444685934395402> Integre a EclipSePay na MM"
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "Não quer pagar nem receber na sua conta pessoal? Com a integração, você paga e recebe middlemans na **EclipSe MM** com um clique: é só escolher **pagar com EclipSePay** ou **receber com EclipSePay** no site.\n\nTudo cai na sua conta EclipSePay."
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Integrar em um segundo",
+              "emoji": {
+                "name": "eclipsemmlogo",
+                "id": "1560444685934395402"
+              },
+              "url": "https://eclipsepaybr.com/integracao-mm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

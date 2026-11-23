@@ -25,6 +25,8 @@ Pastas: `marca/`, `sellers/`, `notion/`, `embeds/`, `posts/`, `motions/` e `emoj
 
 ## embeds
 
+JSON (components v2) dos embeds fixos publicados, para repostar ou editar: `regras.json` (#regras), `eleicao_mod_chat.json` (#modchat) e `rede_eclipsepay.json` (#eclipsepay, webhook EclipSePay).
+
 ## posts
 
 ## motions
