@@ -8,6 +8,7 @@ Pastas: `marca/`, `sellers/`, `notion/`, `embeds/`, `posts/`, `motions/` e `emoj
 
 ## marca
 
+- [logo_eclipsetrades_preta.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades_preta.png) e [.svg](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades_preta.svg): logo atual do rebranding (1254 px), preta e grafite como o site; barras em degrau, a maior é a mais clara.
 - [logo_eclipsetrades.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades.png)
 - [logo_eclipsetrades.svg](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades.svg)
 - [logo_eclipsetrades_gold.png](https://raw.githubusercontent.com/Lotus9024/eclipse-trades-midias/main/marca/logo_eclipsetrades_gold.png): versão dourada do tema premium amarelo (1254 px), usada nos embeds de Seller e nos anúncios.
@@ -31,3 +32,6 @@ Pastas: `marca/`, `sellers/`, `notion/`, `embeds/`, `posts/`, `motions/` e `emoj
 ## emoji
 
 Imagens de todos os emojis do servidor do Discord, com o mesmo nome do emoji (`emoji/<nome>.png`, ou `.gif` se for animado). O ID e o código de cada um ficam no Notion, em Time de Discord → Página Inicial de Servidor → Emojis existentes. Ao criar um emoji novo no servidor, adicione a imagem aqui e a linha lá.
+
+Emojis grafite do rebranding (quadrado preto com o desenho em degradê grafite, no tema da logo Degrau):
+`eclipsetradesgrafite`, `bloqueiografite`, `cancelargrafite`, `verificadografite`, `coracaodinheirografite`, `sellergrafite`, `robuxgrafite` e `alertagrafite`.
